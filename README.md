@@ -9,4 +9,5 @@
 5.1. 파일: /task/src/main/java/com/task/controller/TaskOne.java    
 5.2. 실행 방법: TaskOne.java 파일 Java Application 실행   
 5.3. console 창에 문자열 입력. 예) 3[a4[c]]   
-6. 문제(2)
+6. 문제(2)   
+6.1. 미완료.
